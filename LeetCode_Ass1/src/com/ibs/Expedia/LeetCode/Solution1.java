@@ -7,8 +7,7 @@ class Solution1 {
 		
 	
 public static void main(String[] args) {
-    //public String removeDuplicates(String s) {
-        //It keeps all the elements in the stack
+    
         Stack<Character> stack = new Stack<>();
        
         String s = "Hello";
